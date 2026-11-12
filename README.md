@@ -1,11 +1,10 @@
-### Hi, I build things that run in your browser 👋
+### Hi, I'm Joey (@CobraPi)
 
-**[Practical Web Tools](https://practicalwebtools.com)** — 1,500+ free tools (converters, PDF, calculators, audio) that run 100% client-side. No uploads, no accounts, no watermarks.
+I build [Practical Web Tools](https://practicalwebtools.com) — ~500 free browser-based tools (file converters, PDF editors, image utilities, calculators) plus a 12-app Creative Studio. Everything runs client-side with WebAssembly: no uploads, no accounts, no tracking.
 
-**[PWT Studio](https://practicalwebtools.com/studio)** — 9 free browser-based creative apps: photo editor (layers, PSD), vector editor, video editor (ffmpeg.wasm), audio DAW, motion graphics, RAW photo library, page designer, PDF organizer, CAD. Everything is WebAssembly running on your device — your files never leave your machine.
+Recent open-source work:
 
-- 🔒 Privacy by architecture: client-side means nothing uploads
-- 🆓 Free: no accounts, no watermarks, no export limits
-- ⚡ Works offline as a PWA
+- [embeddable-calculator-widgets](https://github.com/CobraPi/embeddable-calculator-widgets) — 11 MIT-licensed calculator widgets (mortgage, loan, BMI, TDEE, due date, percentage, countdown, and more) that embed in any page with two lines of HTML. Self-contained scripts, no iframe to a server, no API key. CDN-served via jsDelivr.
+- [Practical Web Tools](https://practicalwebtools.com/embed) — the full embeddable catalog (34+ calculators) with copy-paste snippets.
 
-Currently maintaining tools and contributing to lists I actually use.
+The widgets ship from [practicalwebtools.com/embed](https://practicalwebtools.com/embed); every snippet carries an attribution anchor back to the tool page.
